@@ -11,7 +11,7 @@ A simple and visually appealing countdown timer that allows users to set a targe
   
   ## Demo
 
-You can see a live demo of the countdown timer [here](https://your-username.github.io/countdown-timer/timer.html).
+You can see a live demo of the countdown timer (https://your-username.github.io/countdown-timer/timer.html).
 
 ## Getting Started
 
