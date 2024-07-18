@@ -45,7 +45,7 @@ You can see a live demo of the countdown timer [here](https://your-username.gith
 
 ## Project Structure
 
-- `index.html`: The main HTML file that contains the structure of the countdown timer.
+- `timer.html`: The main HTML file that contains the structure of the countdown timer.
 - `styles.css`: The CSS file that styles the countdown timer.
 - `script.js`: The JavaScript file that implements the countdown functionality.
 
@@ -60,18 +60,13 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
-- Thanks to the [MDN Web Docs](https://developer.mozilla.org/) for their comprehensive resources on HTML, CSS, and JavaScript.
 - Inspired by various countdown timer projects available on GitHub and CodePen.
 
 ## Contact
 
 For any questions or feedback, please contact:
 
-- **Email:** [info@unifiedmentor.com](mailto:info@unifiedmentor.com)
-- **Website:** [unifiedmentor.com](https://unifiedmentor.com)
+- **Email:** suryaswathi92@gmail.com
+
